@@ -6,7 +6,7 @@ Every AI assistant ever built has been relentlessly optimised to make you feel g
 
 This is the antidote.
 
-Built by [Benjamin Gilmour](https://github.com/benjamingilmour).
+Built by [Benjamin Gilmour](https://github.com/benjamin-gilmour).
 
 ---
 
