@@ -145,7 +145,7 @@ Hasn't once. Won't start now.
 
 ## Getting it
 
-**All thirteen:** [`unfiltered-full.skill`](./packs/unfiltered-full.skill) — upload once at [claude.ai → Settings → Skills](https://claude.ai). Done.
+**All thirteen:** [`unfiltered-full.skill`](./packs/unfiltered-full.skill) — paste the contents into your conversation as a first message, or drop it into your Claude Code project's `CLAUDE.md` file. Done.
 
 **The core three:** [`unfiltered-core.skill`](./packs/unfiltered-core.skill) — FFS Really, Right Listen Up, Brutal Honesty. Start here.
 
