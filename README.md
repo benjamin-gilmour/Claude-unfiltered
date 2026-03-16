@@ -145,9 +145,9 @@ Hasn't once. Won't start now.
 
 ## Getting it
 
-**All thirteen:** [`unfiltered-full.skill`](./packs/unfiltered-full.skill) — paste the contents into your conversation as a first message, or drop it into your Claude Code project's `CLAUDE.md` file. Done.
+**All thirteen:** [`unfiltered-full.skill`](packs/unfiltered-full.skill) — copy the contents and paste it as your first message in a new Claude conversation, or add it to your project's `CLAUDE.md` file in Claude Code.
 
-**The core three:** [`unfiltered-core.skill`](./packs/unfiltered-core.skill) — FFS Really, Right Listen Up, Brutal Honesty. Start here.
+**The core three:** [`unfiltered-core.skill`](packs/unfiltered-core.skill) — FFS Really, Right Listen Up, Brutal Honesty. Start here.
 
 **Just one:** Every skill lives in its own folder with its own file. Take what you want.
 
